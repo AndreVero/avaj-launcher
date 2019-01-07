@@ -1,2 +1,2 @@
 # avaj-launcher
-Easy java
+Easy airport launcher
